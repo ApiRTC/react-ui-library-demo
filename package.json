@@ -2,6 +2,7 @@
   "name": "storybook-demo-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@apizee/apirtc": "^4.5.5",
     "@apizee/apizee-components-alpha": "^11.2.0",
