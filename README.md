@@ -30,7 +30,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 `yarn build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `docs` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
@@ -38,4 +38,4 @@ Your app is ready to be deployed!
 
 ## Deploy to github page
 
-After `yarn build`, just `git add build/*`, commit and push the changes to github !
+After `yarn build`, just `git add docs/*`, commit and push the changes to github !
