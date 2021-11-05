@@ -16,7 +16,7 @@ export enum Pages {
 
 export function App() {
   const [page, setPage] = useState(Pages.Home)
-  const [cloud_url, setCloudUrl] = useState("https://cloud.apizee.noa")
+  const [cloud_url, setCloudUrl] = useState("https://cloud.apirtc.com")
   const apirtc = useApiRTC("")
 
   return (
